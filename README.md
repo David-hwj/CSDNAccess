@@ -11,6 +11,10 @@ Run this program to add your CSDN view number
 
 # 使用方法
 ## 一，你有docker的情况下（推荐）
+直接下载contrain：`docker pull davidhwj/csdn-access`
+然后运行：`docker run -d -t davidhwj/csdn-access`
+
+或者下载代码自己构建镜像：
 1. 下载本项目 
 `git clone git@github.com:David-hwj/CSDNAccess.git`
 2. 进入项目文件夹
